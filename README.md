@@ -222,7 +222,7 @@ pyinstaller --noconfirm --onedir --windowed --add-data "venv/Lib/site-packages/t
 
 <br />
 
-Crafted with ❤️ by **[Bram Roy](https://github.com/username)**
+Crafted with ❤️ by **[Abraham Roy Rudianto](https://github.com/BramRoyy)**
 <br />
 *Python • CustomTkinter • Pillow • rembg AI*
 
