@@ -208,7 +208,6 @@ pyinstaller --noconfirm --onedir --windowed --add-data "venv/Lib/site-packages/t
 ## 📜 Lisensi
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
-[![GitHub release](https://img.shields.io/github/v/release/BramRoyy/image-converter-pro?style=flat-square)](https://github.com/BramRoyy/image-converter-pro/releases)
 
 > **Ringkasan Hak:** Bebas digunakan, dimodifikasi, dan didistribusikan baik untuk keperluan pribadi maupun komersial tanpa jaminan (*as-is*).
 
